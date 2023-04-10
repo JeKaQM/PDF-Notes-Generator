@@ -24,7 +24,7 @@ Some Screenshots
 ### Proccessing Screen
 ![2](https://user-images.githubusercontent.com/74925827/231020288-bcd30777-1dc3-4172-963b-818e2835a8d1.PNG)
 
-##BUGS & ISSUES
+## BUGS & ISSUES
 
 1. The application will only run if launched directly from the IDLE otherwise there is a Permission Issue.
 2. Some larger files may cause instability and lag, the application seems to continue to work okay however may seem unresponsive.
