@@ -61,7 +61,7 @@ def generate_notes(slide_texts, output_file, user_prompt, model='text-davinci-00
         slide_notes = f"Slide {index + 1} Notes:\n{response.choices[0].text.strip()}\n\n"
         notes += slide_notes
 
-        with open(output_file, 'a') as f:
+        with open(output_file, 'a', encoding='UTF-8') as f:
             f.write(slide_notes)
             f.flush()
 
