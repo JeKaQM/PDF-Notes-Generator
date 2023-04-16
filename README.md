@@ -26,5 +26,4 @@ Some Screenshots
 
 ## BUGS & ISSUES
 
-1. The application will only run if launched directly from the IDLE otherwise there is a Permission Issue.
 2. Some larger files may cause instability and lag, the application seems to continue to work okay however may seem unresponsive.
